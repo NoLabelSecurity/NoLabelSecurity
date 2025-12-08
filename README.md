@@ -23,12 +23,39 @@ I am honored to be a member of both the National Society of Leadership and Succe
 
 ## GitHub Stats
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=NoLabelSecurity&theme=dark&show_icons=true&count_private=true">
+<div align="center">
+  <!-- Profile Details -->
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoLabelSecurity&theme=2077" 
+    alt="Profile Details"
+    style="margin: 10px; width: 100%; max-width: 700px;"
+  />
+  <!-- Stats -->
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NoLabelSecurity&theme=2077" 
+    alt="Stats"
+    style="margin: 10px;"
+  />
+  <!-- Repos per Language -->
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoLabelSecurity&theme=2077" 
+    alt="Repos per Language"
+    style="margin: 10px;"
+  />
+  <!-- Most Commit Language -->
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NoLabelSecurity&theme=2077" 
+    alt="Most Commit Language"
+    style="margin: 10px;"
+  />
+  <!-- Productive Time -->
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NoLabelSecurity&theme=2077" 
+    alt="Productive Time"
+    style="margin: 10px;"
+  />
+</div>
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=NoLabelSecurity&theme=dark"></td><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=NoLabelSecurity&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/brian-lorick-73581a188" target="_blank">Brian Lorick</a> Email: brianlorick1988@gmail.com</p>
+
