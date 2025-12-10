@@ -1,3 +1,46 @@
+<!-- Banner -->
+<p align="center">
+  <a href="https://github.com/NoLabelSecurity">
+    <img src="https://raw.githubusercontent.com/NoLabelSecurity/NoLabelSecurity/main/Assets/Banner.png" alt="NoLabelSecurity Banner" />
+  </a>
+</p>
+
+- - -
+
+<!-- Stats Cards Container (4x1 Row) -->
+<div align="center">
+  <div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 10px;
+  ">
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NoLabelSecurity&theme=2077" 
+      alt="Stats"
+      style="width: 22%; min-width: 150px;"
+    />
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoLabelSecurity&theme=2077" 
+      alt="Repos per Language"
+      style="width: 22%; min-width: 150px;"
+    />
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NoLabelSecurity&theme=2077" 
+      alt="Most Commit Language"
+      style="width: 22%; min-width: 150px;"
+    />
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NoLabelSecurity&theme=2077" 
+      alt="Productive Time"
+      style="width: 22%; min-width: 150px;"
+    />
+  </div>
+</div>
+
+- - -
+
 ## About Me
 
 I’m Brian, a technology enthusiast with an A.A.S. in Computer Technology with an emphasis in Cybersecurity and Digital Forensics from Tri-County Technical College. I have a strong foundation in IT systems, cybersecurity practices, and technical problem-solving, supported by hands-on experience across a wide range of tools, platforms, and programming environments.
@@ -23,38 +66,18 @@ I am honored to be a member of both the National Society of Leadership and Succe
 
 ## GitHub Stats
 
-<div align="center">
-  <!-- Profile Details -->
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoLabelSecurity&theme=2077" 
-    alt="Profile Details"
-    style="margin: 10px; width: 100%; max-width: 700px;"
-  />
-  <!-- Stats -->
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NoLabelSecurity&theme=2077" 
-    alt="Stats"
-    style="margin: 10px;"
-  />
-  <!-- Repos per Language -->
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoLabelSecurity&theme=2077" 
-    alt="Repos per Language"
-    style="margin: 10px;"
-  />
-  <!-- Most Commit Language -->
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NoLabelSecurity&theme=2077" 
-    alt="Most Commit Language"
-    style="margin: 10px;"
-  />
-  <!-- Productive Time -->
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NoLabelSecurity&theme=2077" 
-    alt="Productive Time"
-    style="margin: 10px;"
-  />
+<!-- Profile Container -->
+<div align="center" style="margin-bottom: 20px;">
+  <div style="display: inline-block; width: 100%; max-width: 800px;">
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoLabelSecurity&theme=2077" 
+      alt="Profile Details"
+      style="width: 100%; margin: 10px 0;"
+    />
+  </div>
 </div>
+
+
 
 
 
