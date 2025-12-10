@@ -1,9 +1,16 @@
 <!-- Banner -->
-<p align="center">
-  <a href="https://github.com/NoLabelSecurity">
-    <img src="https://raw.githubusercontent.com/NoLabelSecurity/NoLabelSecurity/main/Assets/Banner.png" alt="NoLabelSecurity Banner" />
-  </a>
-</p>
+<div align="center" style="margin-bottom: 20px;">
+  <div style="display: inline-block; width: 100%; max-width: 800px;">
+    <a href="https://github.com/NoLabelSecurity">
+      <img 
+        src="https://raw.githubusercontent.com/NoLabelSecurity/NoLabelSecurity/main/Assets/banner.gif" 
+        alt="NoLabelSecurity Banner"
+        style="width: 100%; margin: 10px 0;"
+      />
+    </a>
+  </div>
+</div>
+
 
 - - -
 
