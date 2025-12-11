@@ -84,6 +84,43 @@ I am honored to be a member of both the National Society of Leadership and Succe
   </div>
 </div>
 
+---
+
+## Digital Badges
+
+## Phi Theta Kappa
+
+### Competitive Edge
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Competitive%20Edge/Collaborate/Phi_Theta_Kappa_Competitive_Excellence_Collaborate.png"
+       width="150" alt="Collaborate Badge" />
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Competitive%20Edge/Connect/Phi_Theta_Kappa_Competitive_Excellence_Connect.png"
+       width="150" alt="Connect Badge" />
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Competitive%20Edge/Grow/Phi_Theta_Kappa_Competitive_Excellence_Grow.png"
+       width="150" alt="Grow Badge" />
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Competitive%20Edge/Perform/Phi_Theta_Kappa_Competitive_Excellence_Perform.png"
+       width="150" alt="Perform Badge" />
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Competitive%20Edge/Think/Phi_Theta_Kappa_Competitive_Excellence_Think_Badge.png"
+       width="150" alt="Think Badge" />
+</p>
+
+---
+
+### Employment Edge
+<p align="center">
+  <!-- ACHIEVE -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Employment%20Edge/Achieve/Phi_Theta_Kappa_Career_Excellence_ACHIEVE.png"
+       width="150" alt="Achieve Badge" />
+  <!-- ACT -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Employment%20Edge/Act/Phi_Theta_Kappa_Career_Excellence_ACT.png"
+       width="150" alt="Act Badge" />
+  <!-- ADVANCE -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Employment%20Edge/Advance/Phi_Theta_Kappa_Career_Excellence_ADVANCE.png"
+       width="150" alt="Advance Badge" />
+  <!-- AIM -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Employment%20Edge/Aim/Phi_Theta_Kappa_Career_Excellence_AIM%20BADGE.png"
+       width="150" alt="Aim Badge" />
+</p>
 
 
 
