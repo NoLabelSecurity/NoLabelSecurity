@@ -130,6 +130,25 @@ Below are a selection of my verified digital credentials earned through structur
        width="150" alt="Aim Badge" />
 </p>
 
+---
+
+### Advocacy Edge
+<p align="center">
+  <!-- Be Collaborative -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Advocacy%20Edge/Be%20Collaborative/Phi_Theta_Kappa_Advocacy_Edge_Be_Collaborative.png"
+       width="150" alt="Be Collaborative Badge" />
+  <!-- Be Informed -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Advocacy%20Edge/Be%20Informed/Phi_Theta_Kappa_Advocacy_Edge_Be_Informed.png"
+       width="150" alt="Be Informed Badge" />
+  <!-- Be Intentional -->
+  <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Advocacy%20Edge/Be%20Intentional/Phi_Theta_Kappa_Advocacy_Edge_Be_Intentional.png"
+       width="150" alt="Be Intentional Badge" />
+  <!-- Be the Change -->
+  <img src="https://via.placeholder.com/512?text=Be+the+Change"
+       width="150" alt="Be the Change - Course in Progress" />
+</p>
+
+---
 
 
 
