@@ -86,9 +86,17 @@ I am honored to be a member of both the National Society of Leadership and Succe
 
 ---
 
-## Digital Badges
+### 🌟 Phi Theta Kappa (PTK) – International Honor Society
+- Academic excellence & scholarship  
+- Community leadership & service  
+- Competitive Edge & Employment Edge achievement tracks  
+- Digital badges earned through PTK EDGE programs (displayed below)
 
-## Phi Theta Kappa
+---
+
+## 🎖️ Digital Badges
+Below are a selection of my verified digital credentials earned through structured leadership, academic, and career-readiness programs.
+
 
 ### Competitive Edge
 <p align="center">
