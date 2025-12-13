@@ -86,11 +86,25 @@ I am honored to be a member of both the National Society of Leadership and Succe
 
 ---
 
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+
 ### 🌟 Phi Theta Kappa (PTK) – International Honor Society
 - Academic excellence & scholarship  
 - Community leadership & service  
 - Competitive Edge & Employment Edge achievement tracks  
 - Digital badges earned through PTK EDGE programs (displayed below)
+
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/Docs/Certificates/PTK%20Membership%20Certificate.jpg"
+           alt="PTK Membership Certificate"
+           width="300"
+           style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -149,6 +163,7 @@ Below are a selection of my verified digital credentials earned through structur
 </p>
 
 ---
+
 
 
 
