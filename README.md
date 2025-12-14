@@ -3,15 +3,13 @@
   <div style="display: inline-block; width: 100%; max-width: 800px;">
     <a href="https://github.com/NoLabelSecurity">
       <img 
-        src="https://raw.githubusercontent.com/NoLabelSecurity/NoLabelSecurity/main/Assets/banner.gif" 
-        alt="NoLabelSecurity Banner"
+        src="https://raw.githubusercontent.com/NoLabelSecurity/NoLabelSecurity/main/Assets/banner1.gif" 
+        alt="banner1"
         style="width: 100%; margin: 10px 0;"
       />
     </a>
   </div>
 </div>
-
-- - -
 
 <p align="center">
   <!-- Statistics: Commit series -->
@@ -38,6 +36,32 @@
     <img src="https://raw.githubusercontent.com/NoLabelSecurity/Github-Stats-Cards/main/output/stats_visitors.svg">
   </picture>
 </p>
+
+<!-- Tech Stack Badges -->
+<div align="center" style="margin-top:20px; margin-bottom:20px;">
+
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" alt="MariaDB" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
+
+</div>
+
 
 - - -
 
