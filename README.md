@@ -48,6 +48,10 @@
 
 - - -
 
+<a href="https://stats.hyo.dev/stats/NoLabelSecurity"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=NoLabelSecurity" width="600" /></a>
+<a href="https://stats.hyo.dev/stats/NoLabelSecurity"><img src="https://stats.hyo.dev/api/github-trophies?login=NoLabelSecurity" width="600" /></a>
+- - -
+
 ## About Me
 
 I’m Brian, a technology enthusiast with an A.A.S. in Computer Technology with an emphasis in Cybersecurity and Digital Forensics from Tri-County Technical College. I have a strong foundation in IT systems, cybersecurity practices, and technical problem-solving, supported by hands-on experience across a wide range of tools, platforms, and programming environments.
