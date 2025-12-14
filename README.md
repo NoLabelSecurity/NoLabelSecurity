@@ -188,7 +188,7 @@ Below are a selection of my verified digital credentials earned through structur
 
 ## 🎖️ Digital Badges
 
-<p align="left">
+<p align="center">
   <!-- Foundations of Leadership -->
   <img src="https://raw.githubusercontent.com/NoLabelSecurity/NSLS-Honors-Society/main/Digital%20Certificates/Badges/Foundations%20of%20Leadership%20Certificate%20-%20Badge.png"
        width="150"
