@@ -11,45 +11,34 @@
   </div>
 </div>
 
-
 - - -
 
-<!-- Stats Cards Container (4x1 Row) -->
-<div align="center">
-  <div style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: nowrap;
-    gap: 10px;
-  ">
-    <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NoLabelSecurity&theme=2077" 
-      alt="Stats"
-      style="width: 22%; min-width: 150px;"
-    />
-    <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoLabelSecurity&theme=2077" 
-      alt="Repos per Language"
-      style="width: 22%; min-width: 150px;"
-    />
-    <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NoLabelSecurity&theme=2077" 
-      alt="Most Commit Language"
-      style="width: 22%; min-width: 150px;"
-    />
-    <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NoLabelSecurity&theme=2077" 
-      alt="Productive Time"
-      style="width: 22%; min-width: 150px;"
-    />
-  </div>
-</div>
+<p align="center">
+  <!-- Statistics: Commit series -->
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/NoLabelSecurity/Github-Stats-Cards/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/NoLabelSecurity/Github-Stats-Cards/main/output/stats_commits.svg">
+  </picture>
 
-- - -
+  <!-- Statistics: Programming languages -->
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/NoLabelSecurity/Github-Stats-Cards/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/NoLabelSecurity/Github-Stats-Cards/main/output/stats_langs.svg">
+  </picture>
 
-<a href="https://stats.hyo.dev/stats/NoLabelSecurity"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=NoLabelSecurity" width="600" /></a>
-<a href="https://stats.hyo.dev/stats/NoLabelSecurity"><img src="https://stats.hyo.dev/api/github-trophies?login=NoLabelSecurity" width="600" /></a>
+  <!-- Statistics: General statistics -->
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/NoLabelSecurity/Github-Stats-Cards/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/NoLabelSecurity/Github-Stats-Cards/main/output/stats_general.svg">
+  </picture>
+
+  <!-- Statistics: Unique repository visitors -->
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/NoLabelSecurity/Github-Stats-Cards/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/NoLabelSecurity/Github-Stats-Cards/main/output/stats_visitors.svg">
+  </picture>
+</p>
+
 - - -
 
 ## About Me
@@ -74,19 +63,6 @@ I am honored to be a member of both the National Society of Leadership and Succe
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-
-## GitHub Stats
-
-<!-- Profile Container -->
-<div align="center" style="margin-bottom: 20px;">
-  <div style="display: inline-block; width: 100%; max-width: 800px;">
-    <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoLabelSecurity&theme=2077" 
-      alt="Profile Details"
-      style="width: 100%; margin: 10px 0;"
-    />
-  </div>
-</div>
 
 ---
 
