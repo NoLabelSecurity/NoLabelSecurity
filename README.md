@@ -42,25 +42,80 @@
 
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" alt="Bash" />
   &nbsp;
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   &nbsp;
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" alt="MariaDB" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/MS%20Access-A4373A?logo=microsoftaccess&logoColor=white" alt="MS Access" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
+  <img src="https://img.shields.io/badge/SparkFun-E5352B?logo=sparkfun&logoColor=white" alt="SparkFun" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Termux-000000?logo=linux&logoColor=white" alt="Termux" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" alt="Wireshark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wigle%20WiFi-4CAF50?logo=wifi&logoColor=white" alt="Wigle WiFi" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SDR%23-000000?logo=radio&logoColor=white" alt="SDR#" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OSINT%20Framework-000000" alt="OSINT Framework" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google%20Dorks-4285F4?logo=google&logoColor=white" alt="Google Dorks" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?logo=virustotal&logoColor=white" alt="VirusTotal" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hak5-000000?logo=hackaday&logoColor=white" alt="Hak5" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepadplusplus&logoColor=black" alt="Notepad++" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OnlineGDB-2C2C2C" alt="OnlineGDB" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OneCompiler-007ACC?logo=visualstudiocode&logoColor=white" alt="OneCompiler" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/RAPTOR-4B4B4B" alt="RAPTOR" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Draw.io-F08705?logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MS%20Visio-3955A3?logo=microsoftvisio&logoColor=white" alt="MS Visio" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TeamViewer-004680?logo=teamviewer&logoColor=white" alt="TeamViewer" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white" alt="Zoom" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Proton-6D4AFF?logo=protonmail&logoColor=white" alt="Proton" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=white" alt="Signal" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white" alt="ChatGPT" />
 
 </div>
+
 
 
 - - -
@@ -74,19 +129,6 @@ I’m proficient with Microsoft Office applications (Word, PowerPoint, Excel, Ac
 I’ve completed the ArcX Cyber Threat Intelligence certification, and I enjoy working with cybersecurity tools such as Wireshark and SDR#. My analytical mindset and curiosity drive me to continue learning, experimenting, and expanding my skill set in cyber and network security, digital forensics, threat intelligence, and system automation.
 
 I am honored to be a member of both the National Society of Leadership and Success (NSLS) and Phi Theta Kappa (PTK), reflecting my dedication to academic excellence and professional growth.
-
-## My Skills
-
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 
 ---
 
