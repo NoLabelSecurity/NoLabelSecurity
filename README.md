@@ -3,8 +3,8 @@
   <div style="display: inline-block; width: 100%; max-width: 800px;">
     <a href="https://github.com/NoLabelSecurity">
       <img 
-        src="https://raw.githubusercontent.com/NoLabelSecurity/NoLabelSecurity/main/Assets/banner1.gif" 
-        alt="banner1"
+        src="https://raw.githubusercontent.com/NoLabelSecurity/NoLabelSecurity/main/Assets/BlueModernFuturisticBanner.gif" 
+        alt="BlueModernFuturisticBanner"
         style="width: 100%; margin: 10px 0;"
       />
     </a>
