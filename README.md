@@ -239,11 +239,7 @@ I am honored to be a member of both the National Society of Leadership and Succe
   </tr>
 </table>
 
----
-
-## 🎖️ Digital Badges
-
-<p align="center">
+<p align="left">
   <!-- Foundations of Leadership -->
   <img src="https://raw.githubusercontent.com/NoLabelSecurity/NSLS-Honors-Society/main/Digital%20Certificates/Badges/Foundations%20of%20Leadership%20Certificate%20-%20Badge.png"
        width="150"
