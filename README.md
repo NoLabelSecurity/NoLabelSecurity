@@ -195,6 +195,7 @@ I am honored to be a member of both the National Society of Leadership and Succe
           <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Advocacy%20Edge/Be%20Collaborative/Phi_Theta_Kappa_Advocacy_Edge_Be_Collaborative.png" width="75" alt="Be Collaborative">
           <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Advocacy%20Edge/Be%20Informed/Phi_Theta_Kappa_Advocacy_Edge_Be_Informed.png" width="75" alt="Be Informed">
           <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Advocacy%20Edge/Be%20Intentional/Phi_Theta_Kappa_Advocacy_Edge_Be_Intentional.png" width="75" alt="Be Intentional">
+          <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Advocacy%20Edge/Be%20the%20Change/Phi_Theta_Kappa_Advocacy_Edge_Be_The_Change.png" width="75" alt="Be the Change">
         </div>
       </td>
     </tr>
@@ -206,6 +207,9 @@ I am honored to be a member of both the National Society of Leadership and Succe
       <td align="center">
         <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
           <!-- Add Research Edge badges here -->
+          <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Research%20Edge/Action/Phi_Theta_Kappa_Research_Excellence_Action.png" width="75" alt="Action">
+          <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Research%20Edge/Impact/Phi_Theta_Kappa_Research_Excellence_Impact.png" width="75" alt="Impact">
+          <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/EDGE/Research%20Edge/Investigation/Phi_Theta_Kappa_Research_Excellence_Investigation.png" width="75" alt="Investigation">
         </div>
       </td>
     </tr>
