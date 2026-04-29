@@ -135,6 +135,12 @@ I am honored to be a member of both the National Society of Leadership and Succe
 <table>
   <tr>
     <td style="vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/Docs/Certificates/PTK%20Membership%20Certificate.jpg"
+           alt="PTK Membership Certificate"
+           width="300"
+           style="border-radius: 8px;" />
+    </td>
+    <td style="vertical-align: top;">
 
 ### 🌟 Phi Theta Kappa (PTK) – International Honor Society
 - Academic excellence & scholarship  
@@ -142,12 +148,6 @@ I am honored to be a member of both the National Society of Leadership and Succe
 - Competitive Edge & Employment Edge achievement tracks  
 - Digital badges earned through PTK EDGE programs (displayed below)
 
-    </td>
-    <td style="vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/NoLabelSecurity/PTK-Honors-Society/main/Docs/Certificates/PTK%20Membership%20Certificate.jpg"
-           alt="PTK Membership Certificate"
-           width="300"
-           style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
@@ -222,6 +222,12 @@ I am honored to be a member of both the National Society of Leadership and Succe
 <table>
   <tr>
     <td style="vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/NoLabelSecurity/NSLS-Honors-Society/main/Assets/NSLS%20Membership%20Certificate.jpg"
+           alt="NSLS Membership Certificate"
+           width="300"
+           style="border-radius: 8px;" />
+    </td>
+        <td style="vertical-align: top;">
 
 ### 🌟 National Society of Leadership and Success (NSLS)
 - Inducted honors member of a nationally recognized leadership society  
@@ -229,12 +235,6 @@ I am honored to be a member of both the National Society of Leadership and Succe
 - Emphasis on personal growth, professional development, and ethical leadership  
 - Official NSLS membership documented for verification purposes
 
-    </td>
-    <td style="vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/NoLabelSecurity/NSLS-Honors-Society/main/Assets/NSLS%20Membership%20Certificate.jpg"
-           alt="NSLS Membership Certificate"
-           width="300"
-           style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
