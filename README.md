@@ -258,5 +258,25 @@ I am honored to be a member of both the National Society of Leadership and Succe
 
 ---
 
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/NoLabelSecurity/arcX/main/arcX%20-%20CTI%20certificate.jpg"
+           alt="ArcX Cyber Threat Intelligence 101 Certificate"
+           width="300"
+           style="border-radius: 8px;" />
+    </td>
+    <td style="vertical-align: top;">
 
+### 🛡️ ArcX Cyber Threat Intelligence 101 Certificate
+- Completed foundational training in cyber threat intelligence concepts and methodologies  
+- Covered threat actors, attack patterns, and intelligence lifecycle processes  
+- Hands-on exposure to real-world threat scenarios and analytical techniques  
+- Strengthened skills in identifying, analyzing, and reporting cyber threats  
+
+    </td>
+  </tr>
+</table>
+
+---
 
